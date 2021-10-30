@@ -1,0 +1,12 @@
+{
+    "name": "Lavalink",
+    "description": "Standalone audio sending node based on Lavaplayer.",
+    "logo": "https://cdn.discordapp.com/attachments/854870328505008158/903995558543368222/ghvJoMfch5cpj2zakZVYDxivx8LytKIskY99ZdKGDNeG3CJ8mpblRt3YXUWplj48Li33BHdTTOBTEMtx4B6eVjY9.png",
+    "repository": "https://github.com/Bes-js/railways-lavalink",
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
